@@ -6,4 +6,4 @@ printf(a);
 getch();
 }
 
-output: 10
+output:10
