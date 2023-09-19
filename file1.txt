@@ -1,9 +1,11 @@
 #include<stdio.h>
 void main()
 {
-int a=30;
+
+int a=20;
+int a=20;
+
 printf(a);
 getch();
 }
-
-output:30
+output:20
